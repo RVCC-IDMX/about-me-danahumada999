@@ -2,6 +2,8 @@ body {
     background-color: white;
 }
 
+/* hero section */
+
 #me {
     border: 10px solid black;
     text-align: center;
@@ -19,9 +21,29 @@ body {
     text-align: center;
     font-size: 30px;
 }
+
+/* bio section */
+
 #bio {
 text-align: center;
 }
 h2 {
     font-size: 30px;
+}
+
+/* hobbies section */
+
+
+
+
+/* gallery section */
+
+#gallery {
+    border: 3px dotted black;
+}
+#gallery img {
+    max-width: 100%;
+}
+#gallery figure {
+    text-align: center;
 }
