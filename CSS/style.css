@@ -1,16 +1,19 @@
 body {
-    background-color: white;
+    background-color: #6E6370;;
 }
 
 /* hero section */
-
+.headtitle {
+    color: #B369C0;
+}
 #me {
-    border: 10px solid black;
+    border: 10px solid #3E3141;
     text-align: center;
     width: 300px;
     height: 380px;
     margin-left: auto;
     margin-right: auto;
+    color: #D559EB;
 }
 
 #head {
@@ -20,30 +23,53 @@ body {
 #biotitle {
     text-align: center;
     font-size: 30px;
+    color: #B369C0;
 }
 
 /* bio section */
 
 #bio {
 text-align: center;
+color: #D559EB;
 }
 h2 {
     font-size: 30px;
+    color: #B369C0;
 }
 
 /* hobbies section */
 
-
+#hobbies {
+color: #D559EB;
+}
 
 
 /* gallery section */
 
 #gallery {
-    border: 3px dotted black;
+    border: 3px dotted #3E3141;
+    text-align: center;
 }
 #gallery img {
     max-width: 100%;
 }
 #gallery figure {
     text-align: center;
+    color: #301E33;
+}
+
+
+/* ipsum */
+
+#Ipsumtitle {
+    text-align: center;
+    border: solid #3E3141;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    margin-top: 2em;
+}
+#Ipsum {
+    text-align: center;
+    color: #D559EB;
 }
