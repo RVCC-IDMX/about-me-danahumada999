@@ -35,6 +35,7 @@ color: #D559EB;
 h2 {
     font-size: 30px;
     color: #B369C0;
+    margin: .1em;
 }
 
 /* hobbies section */
@@ -42,6 +43,9 @@ h2 {
 #hobbies {
 color: #D559EB;
 font-size: 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
 }
 
 
@@ -73,4 +77,18 @@ font-size: 20px;
 #Ipsum {
     text-align: center;
     color: #D559EB;
+}
+
+@media screen and (min-width: 60em) {
+    figure{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    figcaption {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2rem;
+        margin-left: 1rem;
+    }
 }
