@@ -36,6 +36,7 @@ h2 {
     font-size: 30px;
     color: #B369C0;
     margin: .1em;
+    text-align: center;
 }
 
 /* hobbies section */
@@ -123,3 +124,22 @@ align-items: center;
         display: block;
     }
  }
+
+ /* video */
+
+.videowrapper {
+   position: relative;
+   padding-bottom: 56.25%;
+   padding-top: 25px;
+   height: 0px;
+}
+
+.videowrapper iframe {
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   right: 0px;
+   bottom: 0px;
+   height: 100%;
+   width: 100%;
+}
