@@ -114,6 +114,7 @@
             
           </div>
           </section>
+        </article>
         <section id="Video">
           <div class="videotitle">
             <h2>A Short Video</h2>
@@ -123,8 +124,77 @@
           </div>
         </section>
 
-      </section>
-      </article>
+
+        <section id="contact">
+
+          <h2>Contact Us</h2>
+          <form id="contactform" name="contactform" method="post" data-netlify="true">
+
+             <fieldset>
+               <legend>Contact Form</legend>
+                
+                <div id="formElements">
+
+                   <!-- name -->
+                   <label for="name">Name (required)</label>
+                   <input type="text" id="name" name="name" required>
+
+                   <!-- email -->
+                   <label for="email">Email (required)</label>
+                   <input type="email" id="email"name="email" required> 
+
+                   <!-- phone -->
+                   <label for="tel">Phone (optional)</label>
+                   <input type="tel" id="tel"name="phone">
+                   
+                   <!-- phone type -->
+                   <label for="phonetype">Phone type (optional)</label>
+                   <select id="phonetype" name="phonetype">
+                       <option value="" selected>Select phone type</option>
+                       <option value="Mobile">Mobile</option>
+                       <option value="Work">Work</option>
+                       <option value="Home">Home</option>
+                   </select>
+
+                   <!-- Message -->
+                   <label for="message">Message (optional)</label>
+                   <textarea id="message" name="message" rows="8"></textarea>
+                   
+                   <!-- Reply -->
+                   <fieldset>
+                        <legend>Would you like a reply?</legend>
+
+                        <ul>
+                            <li>
+                               <input type="radio"id="message-yes" name="reply"value="yes">
+                              <label for="message-yes">a reply would be nice.</label>
+                            </li>
+                            <li>
+                               <input type="radio"id="message-no" name="reply" checked>
+                              <label for="message-no">No, thanks</label>
+                            </li>
+                        </ul>
+
+                   </fieldset>
+                   <!--  Submit -->
+                   <button type="submit">Send</button>
+                </div>
+
+             </fieldset>
+
+
+          </form>
+           
+
+        </section>
+
+
       </main>
+
+      <footer>
+
+          2024 - Daniel Ahumada 
+
+      </footer>
 </body>
 </html>
