@@ -50,11 +50,28 @@ main {
 
 /* navigation list */
 
+.Navbar-Links li {
+    list-style: none;
+    display: block;
+    padding: 0.5em 0;
+}
 
 /* style all a tags in header and then on hover */
 
+.Navbar-Links a {
+    color: #B369C0;
+    background-color: #3E3141;
+    font-size: 1.5rem;
+    padding: 1rem 1.25rem;
+    letter-spacing: 2px;
+    text-decoration: none;
+    display: inline-block;
+}
 
-
-
+.Navbar-Links a:hover, .Navbar-Links a:focus {
+    filter: invert(1);
+    border-radius: 10px;
+    outline: none;
+}
 
 /* media query for non-mobile nav bar min-width set to width of nav elements such that no text wraps */
