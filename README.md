@@ -18,13 +18,19 @@ this about me projects purpose is to show things that i like and enjoy doing whi
 [![screenshot of the color scheme used for my about me project]]
 (file:///Users/danielahumada/Downloads/Screenshot%202024-10-30%20at%201.36.01%E2%80%AFPM.svg)
 
- 
-       
+all the colors used are as follows 
 
+1. #B369C0
 
+2. #8F6B96
 
+3. #D559EB
 
+4. #6E6370
 
+5. #3E3141
+
+6. #301E33
 
 ## License
 
