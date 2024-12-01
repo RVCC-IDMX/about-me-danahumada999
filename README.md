@@ -1,40 +1,30 @@
-# README
+# About ME!
 
-BY Daniel Ahumada
+**BY Daniel Ahumada**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b8d5d50b-c9ef-404f-b6c0-cdc4cc9ce009/deploy-status)](https://app.netlify.com/sites/about-me-danahumada999/deploys)
 
-# Foobar
+# description 
 
-Foobar is a Python library for dealing with word pluralization.
+this about me projects purpose is to show things that i like and enjoy doing while also showing the skills I learned in web dev 1. some skills include but are not limited to Hyper Text Markup Language(HTML), how to use Github and Netlify and how important these two are for making a website, and how to add some style to my website using Cascading Style Sheets(CSS). 
 
-## Installation
+1. I learned that HTML is used as a type of language to communicate with all text, images , and any other stuff you might have on your page and it tells it how to show up on the webpage. 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+2. I learned that Github is used as a place to store your webpage as well as share it with others I also learned that Netlify is used as a place where your webpage lives kind of like a home for it. 
 
-```bash
-pip install foobar
-```
+3. Finally I learned that CSS is used to dress your website up and help it not be so boring it adds life to the page by allowing you to add color and fonts it also allows you to change the position of where certain text is as well as change the size of the font and it also allows you to add boxes and boarders to text and images.
 
-## Usage
+# Color Scheme
 
-```python
-import foobar
+![screenshot of the color scheme used for my about me project]
+(/assets/adding html, images, text/screenshot 2024-10-30 at 1.36.01 PM.png
 
-# returns 'words'
-foobar.pluralize('word')
+ 
+       
 
-# returns 'geese'
-foobar.pluralize('goose')
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 ## License
 
