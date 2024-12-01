@@ -16,7 +16,7 @@ this about me projects purpose is to show things that i like and enjoy doing whi
 # Color Scheme
 
 ![screenshot of the color scheme used for my about me project]
-(/assets/adding html, images, text/screenshot 2024-10-30 at 1.36.01 PM.png
+(/document/web dev 1/about-me-danahumada999/adding html, images, text/img/screenshot 2024-10-30 at 1.36.01 PM.png)
 
  
        
