@@ -15,7 +15,7 @@ this about me projects purpose is to show things that i like and enjoy doing whi
 
 # Color Scheme
 
-![screenshot of the color scheme used for my about me project]
+[![screenshot of the color scheme used for my about me project]]
 (file:///Users/danielahumada/Downloads/Screenshot%202024-10-30%20at%201.36.01%E2%80%AFPM.svg)
 
  
