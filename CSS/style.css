@@ -65,9 +65,9 @@ align-items: center;
 }
 
 
-/* ipsum */
+/* artical */
 
-#Ipsumtitle {
+#articaltitle {
     text-align: center;
     border: solid #3E3141;
     margin-left: auto;
@@ -75,7 +75,7 @@ align-items: center;
     width: 200px;
     margin-top: 2em;
 }
-#Ipsum {
+#artical {
     text-align: center;
     color: #D559EB;
 }
