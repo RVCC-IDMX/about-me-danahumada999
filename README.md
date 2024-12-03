@@ -32,6 +32,14 @@ all the colors used are as follows
 
 6. #301E33
 
+# citation 
+
+(https://www.pumpkinwebdesign.com/web-design-manchester/advantages-of-image-hover-effects/)
+
+(https://fooplugins.com/thumbnail-hover-effect/)
+
+(https://thebrandsmen.com/css-image-hover-effects/)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
