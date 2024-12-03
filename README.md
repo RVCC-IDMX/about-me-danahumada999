@@ -34,11 +34,11 @@ all the colors used are as follows
 
 # citation 
 
-(https://www.pumpkinwebdesign.com/web-design-manchester/advantages-of-image-hover-effects/)
+https://www.pumpkinwebdesign.com/web-design-manchester/advantages-of-image-hover-effects/
 
-(https://fooplugins.com/thumbnail-hover-effect/)
+https://fooplugins.com/thumbnail-hover-effect/
 
-(https://thebrandsmen.com/css-image-hover-effects/)
+https://thebrandsmen.com/css-image-hover-effects/
 
 ## License
 
