@@ -51,6 +51,10 @@ main {
 
 /* navigation list */
 
+.Navbar-Links {
+    color:red;
+}
+
 .Navbar-Links li {
     list-style: none;
     display: block;
@@ -70,7 +74,7 @@ main {
 }
 
 .Navbar-Links a:hover, .Navbar-Links a:focus {
-    filter: invert(1);
+    color: white;
     border-radius: 10px;
     outline: none;
 }

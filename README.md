@@ -1,6 +1,7 @@
 # About ME!
 
 **BY Daniel Ahumada**
+![My Logo](adding%20html,%20images,%20text/img/Aldrich.svg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b8d5d50b-c9ef-404f-b6c0-cdc4cc9ce009/deploy-status)](https://app.netlify.com/sites/about-me-danahumada999/deploys)
 
 # description 
@@ -15,8 +16,7 @@ this about me projects purpose is to show things that i like and enjoy doing whi
 
 # Color Scheme
 
-[![screenshot of the color scheme used for my about me project]]
-(file:///Users/danielahumada/Downloads/Screenshot%202024-10-30%20at%201.36.01%E2%80%AFPM.svg)
+![screenshot of the color scheme used for my about me project](adding%20html,%20images,%20text/img/Screenshot%202024-10-30%20at%201.36.01 PM.png)
 
 all the colors used are as follows 
 

@@ -63,7 +63,11 @@ align-items: center;
     text-align: center;
     color: #301E33;
 }
-
+#gallery hr {
+    border:none;
+    border-top: 3px dotted #3E3141;
+    background-color:rgba(1,1,1,0);
+}
 
 /* artical */
 
@@ -75,6 +79,7 @@ align-items: center;
     width: 200px;
     margin-top: 2em;
 }
+
 #artical {
     text-align: center;
     color: #D559EB;
@@ -83,6 +88,8 @@ align-items: center;
 .container {
     position: relative;
     width: 50%;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .Tesla {
@@ -110,7 +117,7 @@ align-items: center;
 
 .Truck {
     color: #D559EB;
-    font-size: 20px;
+    font-size: 35px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -118,9 +125,6 @@ align-items: center;
     transform: translate(-50%, -50%);
     text-align: center;
 }
-
-
-
 
 /* tablet size */
 
@@ -240,4 +244,10 @@ legend {
 
 #contact label {
     color: #D559EB
+}
+
+/* copyright */
+
+.copyright {
+    text-align: center;
 }
