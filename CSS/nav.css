@@ -74,7 +74,7 @@ main {
 }
 
 .Navbar-Links a:hover, .Navbar-Links a:focus {
-    color: white;
+    color: #B369C0;
     border-radius: 10px;
     outline: none;
 }
